@@ -1,0 +1,6 @@
+#include<iostream>
+int main()
+{
+	std::cout<<First line"<<__LINE__<<__FILE__;
+	return 0;
+}
